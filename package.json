@@ -1,8 +1,7 @@
 {
   "name": "search-app",
   "version": "0.1.0",
-  "homepage": "https://swish933.github.io/search-app"
-  "private": true,
+  "homepage": "https://swish933.github.io/search-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
@@ -14,7 +13,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
